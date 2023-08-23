@@ -1,4 +1,4 @@
-= Title
+= AsciiDoc autobuild test
 :toc: left
 :toc-title: Innholdsfortegnelse
 :toclevels: 3
