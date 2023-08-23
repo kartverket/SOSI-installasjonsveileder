@@ -10,4 +10,4 @@
 
 == Header
 
-Lotem ipsum
+Lorem ipsum
