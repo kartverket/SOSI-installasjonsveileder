@@ -1,0 +1,13 @@
+= Title
+:toc: left
+:toc-title: Innholdsfortegnelse
+:toclevels: 3
+:imagesdir: img/
+:sectnums:
+:docinfo:
+:icons: font
+:lang: no
+
+== Header
+
+Lorem ipsum bla bla bla
