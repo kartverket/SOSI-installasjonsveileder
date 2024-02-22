@@ -1,4 +1,4 @@
-= AsciiDoc autobuild test
+= AsciiDoc autobuild test (proof of concept)
 :toc: left
 :toc-title: Innholdsfortegnelse
 :toclevels: 3
@@ -11,5 +11,3 @@
 == Header
 
 Lorem ipsum ... !
-
-Heisann
